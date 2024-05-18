@@ -1,6 +1,6 @@
 ## Release Notes
 
-## [1.0.0] - 2024-05-18
+## [1.0.1] - 2024-05-18
 
 ### Changed
 - Добавлен composer.json
