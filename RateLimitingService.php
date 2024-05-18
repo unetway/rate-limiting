@@ -1,5 +1,7 @@
 <?php
 
+namespace Unetway\RatesLimiting;
+
 use Redis;
 
 class RateLimitingService

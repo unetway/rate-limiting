@@ -1,0 +1,26 @@
+{
+  "name": "unetway/rate-limiting",
+  "description": "Скрипт подсчитывает действия пользователя и блокирует его при превышении лимита.",
+  "keywords": [
+    "rates",
+    "valute",
+    "crb"
+  ],
+  "homepage": "https://github.com/unetway/rate-limiting",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cherepanov Ilya",
+      "email": "support@unetway.com"
+    }
+  ],
+  "require": {
+    "php": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Unetway\\RatesLimiting\\": "src/"
+    }
+  }
+}
+
